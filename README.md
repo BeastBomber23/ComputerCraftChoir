@@ -7,4 +7,4 @@ Your setup should be something like this. <br />
 
 Red = Main Computer <br />
 Yellow = Turtle (25 of them) <br />
-Gray = Air (Make sure there a 2 blocks inbetween the computer and the turtles.
+Gray = Air (Make sure there a 2 blocks inbetween the computer and the turtles.)
